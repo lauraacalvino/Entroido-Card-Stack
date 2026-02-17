@@ -52,3 +52,11 @@ Developed with 💙 by **Laura Calviño**.
 
 * **GitHub**: [github.com/lauraacalvino](https://github.com/lauraacalvino)
 * **Project**: Entroido Galicia UI Pattern
+
+
+## 📺 Project Demo
+
+
+https://github.com/user-attachments/assets/ee67f4f7-c722-48f5-a080-f3736c2e7ecf
+
+
